@@ -18,11 +18,10 @@ public class Animation  {
                 s.setState(s.changeOnParking());
             }
             System.out.println(s);
-
         }
-    }
+        }
 
-}
+    }
 
 
 
